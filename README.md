@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlaudfo77@gmail.com)](https://solved.ac/rlaudfo77@gmail.com)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMyeongRae)](https://github.com/KimMyeongRae.com/github-readme-stats)
+-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaaudfo77@gmail.com)](https://solved.ac/rlaaudfo77@gmail.com/)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
